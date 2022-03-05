@@ -1,6 +1,6 @@
 function info() {
   const m = new Map();
-  m.set('name', 'ajs3.1');
+  m.set('name', 'ajs3_1');
   m.set('version', '1.0.0');
   return m;
 }
